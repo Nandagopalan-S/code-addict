@@ -3,6 +3,6 @@
 <br>
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTU4Gb5vSVGMPN1knfImPNCzNMkrYWC40txog&usqp=CAU">
-<h3 style="color:red;">Design Ur Code For Ur Life</h3>
+<h2 style="color:red;">Design Ur Code For Ur Life</h2>
 
 
